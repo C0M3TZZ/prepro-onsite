@@ -1,6 +1,8 @@
 """docstring"""
 
 """Hello from github"""
+
+"""Hello from Local"""
 def main():
     """docstring"""
     allmoney = int(input())
